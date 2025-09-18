@@ -17,7 +17,7 @@
 cd $env:USERPROFILE\Documents
 mkdir bigquery-chatgpt
 cd bigquery-chatgpt
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/your-username/bigquery-mcp-bridge/main/http-to-stdio-bridge.js" -OutFile "http-to-stdio-bridge.js"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/jaewon-parkJP/bigquery-mcp-bridge/main/http-to-stdio-bridge.js" -OutFile "http-to-stdio-bridge.js"
 ```
 
 **Mac (Terminal):**
@@ -25,7 +25,7 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/your-username/bigquery
 cd ~/Documents
 mkdir bigquery-chatgpt
 cd bigquery-chatgpt
-curl -o http-to-stdio-bridge.js https://raw.githubusercontent.com/your-username/bigquery-mcp-bridge/main/http-to-stdio-bridge.js
+curl -o http-to-stdio-bridge.js https://raw.githubusercontent.com/jaewon-parkJP/bigquery-mcp-bridge/main/http-to-stdio-bridge.js
 chmod +x http-to-stdio-bridge.js
 ```
 

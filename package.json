@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/bigquery-mcp-bridge.git"
+    "url": "https://github.com/jaewon-parkJP/bigquery-mcp-bridge.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/bigquery-mcp-bridge/issues"
+    "url": "https://github.com/jaewon-parkJP/bigquery-mcp-bridge/issues"
   },
-  "homepage": "https://github.com/your-username/bigquery-mcp-bridge#readme"
+  "homepage": "https://github.com/jaewon-parkJP/bigquery-mcp-bridge#readme"
 }
