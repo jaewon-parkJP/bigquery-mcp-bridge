@@ -1,0 +1,34 @@
+{
+  "name": "bigquery-mcp-bridge",
+  "version": "1.0.0",
+  "description": "HTTP-to-STDIO bridge for connecting ChatGPT Desktop to BigQuery MCP Server",
+  "main": "http-to-stdio-bridge.js",
+  "bin": {
+    "bigquery-mcp-bridge": "./http-to-stdio-bridge.js"
+  },
+  "scripts": {
+    "start": "node http-to-stdio-bridge.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "bigquery",
+    "mcp",
+    "chatgpt",
+    "bridge",
+    "sql",
+    "data-analysis"
+  ],
+  "author": "BigQuery MCP Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/bigquery-mcp-bridge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/bigquery-mcp-bridge/issues"
+  },
+  "homepage": "https://github.com/your-username/bigquery-mcp-bridge#readme"
+}
